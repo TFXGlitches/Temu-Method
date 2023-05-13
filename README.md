@@ -1,7 +1,7 @@
 # Temu-Method
 1. Open the website
 2. Sign up for a developer account
-3. Pick "USA" (even if you're in UK)
+3. Pick all device locations (Preferrably not a UK one)
 4. Click any device
 5. Once you started the device, go onto that device settings and search up "Private DNS"
 6. Turn it off and then just install any vpn
